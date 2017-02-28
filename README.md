@@ -1,7 +1,7 @@
 # Python Module for REST API calls
 ## Prerequisites
 - Install the latest version of [Python 3](https://www.python.org/ftp/python/3.6.0/python-3.6.0.exe) on your computer.
-  -Select the option to set your environment variables during the installation.
+  - Select the option to set your environment variables during the installation.
 - Download the requests module.
 ```
 $ easy_install requests
